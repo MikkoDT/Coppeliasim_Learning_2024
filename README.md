@@ -2,7 +2,7 @@
  Record or Log of learning Coppeliasim
 
 
-Programming Sample 1
+**Programming Sample 1**
 Velocity Control
 
 Testing: 
