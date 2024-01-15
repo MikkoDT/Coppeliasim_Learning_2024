@@ -9,5 +9,7 @@ Velocity Control
 Testing: 
     joint=sim.getObjectHandle('Revolute_joint')
 
+![velo gif](https://github.com/MikkoDT/Coppeliasim_Learning_2024/assets/93197249/b108db37-de16-4764-a440-741c59097e1e)
+
      
 
