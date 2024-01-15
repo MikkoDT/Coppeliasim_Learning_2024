@@ -10,7 +10,7 @@ end
 
 function sysCall_actuation()
     -- put your actuation code here
-    if ((sim.getSimulationTime()-last_time)>50) then
+    if ((sim.getSimulationTime()-last_time)>20) then
         time_elapsed=true
         last_time=sim.getSimulationTime()
     else
