@@ -1,5 +1,5 @@
 # Coppeliasim_Learning_2024
- Record or Log of learning Coppeliasim
+**Record or Log of learning Coppeliasim**
 
 
 **Programming Sample 1**
@@ -26,7 +26,8 @@ Position Control
     end
 
 
-**DYOR Robot**
+****DYOR Robot****
+
 ![image](https://github.com/MikkoDT/Coppeliasim_Learning_2024/assets/93197249/9891980a-54c2-4404-9ecf-2357d5d5c74e)
 
     
