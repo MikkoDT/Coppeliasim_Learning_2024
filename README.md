@@ -28,6 +28,7 @@ Position Control
 
 ****DYOR Robot****
 
-![image](https://github.com/MikkoDT/Coppeliasim_Learning_2024/assets/93197249/9891980a-54c2-4404-9ecf-2357d5d5c74e)
+![image](https://github.com/MikkoDT/Coppeliasim_Learning_2024/assets/93197249/6383fa0f-0ce1-4a01-86d4-ccc54a217480)
+
 
     
