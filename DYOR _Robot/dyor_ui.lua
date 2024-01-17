@@ -1,4 +1,4 @@
--- lua
+-- DYOR robot
 function onSpeedChange(uiHandle, id, newValue)
     speed=newValue*max_speed/100
     move(speed,turn)
