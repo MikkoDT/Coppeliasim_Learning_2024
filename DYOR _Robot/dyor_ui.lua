@@ -76,3 +76,15 @@ left_arm=sim.getObjectHandle('left_arm_joint')
     '</ui>')
     -- do some initialization here
 end
+
+function sysCall_actuation()
+    -- put your actuation code here
+end
+
+function sysCall_sensing()
+    -- put your sensing code here
+end
+
+function sysCall_cleanup()
+    -- do some clean-up here
+end
