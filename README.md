@@ -24,7 +24,6 @@ Position Control
         ccw=false
 
     end
-next
 
 ****DYOR Robot****
 
